@@ -1,10 +1,4 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
-  },
   "Todo":{
     "userId": "int",
     "id": "int",
