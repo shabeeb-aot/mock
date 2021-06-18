@@ -5,8 +5,8 @@
     "published": "boolean",
     "createdAt": "date"
   },
-  "todo":{
-     "userId": "int",
+  "Todo":{
+    "userId": "int",
     "id": "int",
     "title": "string",
     "completed": "boolean"
