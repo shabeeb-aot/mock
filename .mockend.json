@@ -1,13 +1,8 @@
 {
   "Todo": {
     "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+    "userId": "int",
+    "id": "int",
+    "completed": "boolean"
   }
 }
